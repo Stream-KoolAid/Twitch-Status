@@ -1,0 +1,13 @@
+@import url('https://unpkg.com/@typehaus/metropolis');
+
+html,
+body {
+	background-color: transparent;
+	margin: 0;
+	padding: 0;
+}
+
+.widget-container {
+	height: 100%;
+	width: 100%;
+}
